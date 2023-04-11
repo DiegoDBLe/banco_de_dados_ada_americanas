@@ -17,3 +17,4 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do módulo:
 - Docker
 - PostgreSQL
 - DBeaver
+- IntelliJ IDEA 2022.3.1
